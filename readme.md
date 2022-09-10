@@ -1,4 +1,9 @@
-My steps:
+# Straight to playing
+
+Download the Assembly-CSharp.dll file and replace the original one in your game directory "...\steamapps\common\Isle of Ewe\Isle Of Ewe_Data\Managed".
+
+# Creating the dll
+
 1. Setup Visual Studio
 2. Start default console app for C#
 3. Use NuGet Package Manager Console to get the required asmResolver dependencies: https://github.com/Washi1337/AsmResolver
