@@ -2,7 +2,7 @@
 
 Download the Assembly-CSharp.dll file and replace the original one in your game directory "...\steamapps\common\Isle of Ewe\Isle Of Ewe_Data\Managed".
 
-# Creating the dll
+# Creating the dll yourself
 
 1. Setup Visual Studio
 2. Start default console app for C#
