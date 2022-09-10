@@ -2,10 +2,11 @@ My steps:
 1. Setup Visual Studio
 2. Start default console app for C#
 3. Use NuGet Package Manager Console to get the required asmResolver dependencies: https://github.com/Washi1337/AsmResolver
-+
+```
 Install-Package AsmResolver -Version 4.11.2
-+
 Install-Package AsmResolver.PE -Version 4.11.2
+```
+
 4. Copy code from Program.cs
 5. Edit the source and destination paths.
 6. Put the #US.bin file where you will generated the new dll.
